@@ -1,0 +1,41 @@
+CSC 310
+Homework 7 - Final Project
+45 pts.
+Purpose: This final project gives you the opportunity to create an application using a technology of your choice. You are free to create any sort of application. You can do something for fun, do something as a resume builder, or both. You are allowed to work in teams. This will be your final assignment of the semester. Please don't wait until the last minute. I am giving a good amount of time for this assignment so that you have time to develop something interesting.
+
+Task: Implement an application in a technology of your choice. You are not allowed to reuse homework submissions from other classes. The app should have more than a trivial amount of code, although this could vary depending on your experience and what you are exploring. The scale of this project should be larger than the regular homeworks, and not simply following a tutorial, but instead implement an idea (or multiple ideas) that you have. As a software project, your code will naturally use data structures, but I won't dictate what you might use as it depends on the task. For this project, a portion of the grade will be whether you push/share your project on gitlab. I had previously given instruction on that.
+
+It's ok to dream big for the final project, but make sure it's something you can finish. Use an agile approach (working small and incrementally completing/delivering small pieces), concentrating on CI/CD (continuous integration and continuous delivery of software), with the focus always on working software (an idea also central to the DevOps philosophy). Create working software as soon as possible, and extend as much as time allows. Do things in a priority order so that you have something to submit at the end. It's ok to tackle something "hard", and don't pick something easy for the sake of completing an assignment.
+
+Please connect with a classmate to work as a team if you would like to do that -- I would highly encourage that especially if you haven't work in a team before as businesses like to hear about such experiences. If you have questions about coming up with a project idea, please let me know, but generally it should be something that is of particular interest to you.
+
+Note: feel free to use a GPT for assistance in completing the program, or you can work from a tutorial. Ultimately, what you complete should be in some way unique. Ideally, you are implementing an idea of your own, but the main point is for you to learn something new that interests you. Please note your prompts and resource links in your submission.
+
+Project management:
+
+You should use a Gitlab repository to ensure not losing work. Also, within Gitlab, you can use their project management features such as the issues/task board to organize your ideas and tasks, as well as assigning tasks to team members.
+
+Video walkthrough:
+
+Create a video walkthrough of your app. You should demonstrate how the app works, and also discuss the technologies and data structures used to create the app. Please also touch on any complications you had to overcome. If there is anything in your solution or otherwise in your project that you are especially happy with, please mention that too. There is no required minimum length for this video, but I would suggest the video should be at least 10 minutes.
+
+You will upload this video to the discussion topic, but you might also consider hosting it somewhere that would allow you to share it with an employer. Employers love seeing projects that students have done. You can include such a link on a resume (or possibly linkedin). If you have uploaded the video to a site such as youtube (as an unlisted video), you could simply share the link in the discussion post (rather than uploading it to the discussion post).
+
+Grading breakdown:
+
+The grading breakdown will be as follows (subject to only minor adjustments):
+
+Sufficient size and quality (20 pts)
+Makes appropriate use of data structures (10 pts)
+Video overview of your project (10 pts)
+Pushed/shared on Gitlab (5 pts)
+Submission:
+
+In the discussion topic, post:
+
+the video walkthrough of your app
+On dropbox, submit each of the following:
+
+share your gitlab project with me as a reporter. My gitlab user is @jdhastings. Include the gitlab link on dropbox to ensure that I see it. This should be a proper push of the project, and not simply a zip file uploaded to gitlab. If you are working as a team, I expect to see each of you as team members on one gitlab project, rather than having multiple instances of the project on gitlab.
+If you are working as a team, please post to dropbox to indicate your team members. I won't require each person on the team to upload the code and video, but each of you should indicate in dropbox that you are working in a team.
+your code (zipped). This is not needed if you share via gitlab. This zip need not include packages outside of your own code that would ordinarily be part of a .gitignore file.
